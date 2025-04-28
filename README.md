@@ -31,11 +31,19 @@ skills in the field of imaging and special effect.
 Submit the complete game files (code, assets, audio, Blender models, etc.) in a zip 
 folder. 
 * Provide a short (2-3 minutes) video demo showcasing the gameplay, narrative, and special effects implemented. 
+
 * A pdf report which includes the following contents:  
+
 * Introduction which will describe the game and narrative. 
+
 * Storyboard narrative. 
+
 * Screenshot the Game Scene and explains the assets. 
+
 * Explains how the visual and audio special effects were integrated into the game. 
+
 * Conclusion will describe the strength and weakness of the current artefact and possible future enhancement.  
+
 * Workload Matrix to show each team member contributions. 
+
 * References 
